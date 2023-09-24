@@ -1,17 +1,23 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+## Bikeshare Dataset Exploration in R
 
-### Date created
-Include the date you created this project and README file.
+### Language
+R
 
-### Project Title
-Replace the Project Title
+### Packages
+ggplot
 
-### Description
-Describe what your project is about and what it does
+### Dataset
+`new_york_city.csv`
+`chicago.csv`
+`washingto.csv`
 
-### Files used
-Include the files used
+### Study
+The following questions are explored in our project:
+- What is the gender distribution of bikeshare users in New York City and Chicago.
+- What is the trip duration among bikeshare subscriber user types in Washington?
+- What is the relation between trip duration and birth year in NYC and Chicago?
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+### Methods
+We use statistical methods including histogram plot and scattered plot to analyze our data.
+
 
