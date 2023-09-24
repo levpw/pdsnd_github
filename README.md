@@ -20,4 +20,5 @@ The following questions are explored in our project:
 ### Methods
 We use statistical methods including histogram plot and scattered plot to analyze our data.
 
-
+### Updates
+Add future work as comment

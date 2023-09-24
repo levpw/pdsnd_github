@@ -44,3 +44,5 @@ ggplot(chi, aes(x=Birth.Year, y=Trip.Duration)) +
   geom_point() + labs(title="Chicago", x="Birth Year", y="Trip Duration")
 
 system('python -m nbconvert Explore_bikeshare_data.ipynb')
+
+# Future work
